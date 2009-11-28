@@ -1,0 +1,9 @@
+one:
+  name: MyString
+  login: MyString
+  pass: MyString
+
+two:
+  name: MyString
+  login: MyString
+  pass: MyString

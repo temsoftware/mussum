@@ -1,0 +1,18 @@
+<% title "User" %>
+
+<p>
+  <strong>Name:</strong>
+  <%=h @user.name %>
+</p>
+<p>
+  <strong>Login:</strong>
+  <%=h @user.login %>
+</p>
+<p>
+  <strong>Pass:</strong>
+  <%=h @user.pass %>
+</p>
+
+<p>
+  <%= link_to "View All", users_path %>
+</p>
