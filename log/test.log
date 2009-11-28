@@ -1,3 +1,6 @@
   [4;36;1mUser Create (0.5ms)[0m   [0;1mINSERT INTO "users" ("name", "updated_at", "login", "pass", "created_at") VALUES(NULL, '2009-11-28 18:32:19', NULL, NULL, '2009-11-28 18:32:19')[0m
   [4;36;1mUser Create (0.5ms)[0m   [0;1mINSERT INTO "users" ("name", "updated_at", "login", "pass", "created_at") VALUES('Alison', '2009-11-28 18:46:54', 'alison.asoo', 'manchaverde', '2009-11-28 18:46:54')[0m
   [4;36;1mUser Create (0.5ms)[0m   [0;1mINSERT INTO "users" ("name", "updated_at", "login", "pass", "created_at") VALUES('alisonasoo', '2009-11-28 18:49:31', 'alisonasoo', 'manchaverde', '2009-11-28 18:49:31')[0m
+  [4;36;1mUser Create (0.9ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:05:04', '2009-11-28 19:05:04', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:05:18', '2009-11-28 19:05:18', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:06:41', '2009-11-28 19:06:41', 'manchaverde', 'alisonasoo')[0m
