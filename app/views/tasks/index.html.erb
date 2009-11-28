@@ -1,0 +1,15 @@
+<% title "Tasks" %>
+
+<table>
+  <tr>
+    <th>Description</th>
+  </tr>
+  <% for task in @tasks %>
+    <tr>
+      <td><%=h task.description %></td>
+      <td><%= link_to "Show", task %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Task", new_task_path %></p>

@@ -1,0 +1,13 @@
+<% title "New Task" %>
+
+<% form_for @task do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :description %><br />
+    <%= f.text_area :description %>
+  </p>
+  <p><%= f.submit "Submit" %></p>
+<% end %>
+
+
+<p><%= link_to "Back to List", tasks_path %></p>
