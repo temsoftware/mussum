@@ -1,0 +1,17 @@
+<% title "Sprints" %>
+
+<table>
+  <tr>
+    <th>Task</th>
+    <th>User</th>
+  </tr>
+  <% for sprint in @sprints %>
+    <tr>
+      <td><%=h sprint.task %></td>
+      <td><%=h sprint.user %></td>
+      <td><%= link_to "Show", sprint %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Sprint", new_sprint_path %></p>
