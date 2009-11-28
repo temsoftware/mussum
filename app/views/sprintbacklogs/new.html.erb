@@ -1,0 +1,13 @@
+<% title "New Sprintbacklog" %>
+
+<% form_for @sprintbacklog do |f| %>
+  <%= f.error_messages %>
+  <p>
+    <%= f.label :task %><br />
+    <%= f.text_field :task %>
+  </p>
+  <p><%= f.submit "Submit" %></p>
+<% end %>
+
+
+<p><%= link_to "Back to List", sprintbacklogs_path %></p>

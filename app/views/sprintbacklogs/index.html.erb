@@ -1,0 +1,15 @@
+<% title "Sprintbacklogs" %>
+
+<table>
+  <tr>
+    <th>Task</th>
+  </tr>
+  <% for sprintbacklog in @sprintbacklogs %>
+    <tr>
+      <td><%=h sprintbacklog.task %></td>
+      <td><%= link_to "Show", sprintbacklog %></td>
+    </tr>
+  <% end %>
+</table>
+
+<p><%= link_to "New Sprintbacklog", new_sprintbacklog_path %></p>
