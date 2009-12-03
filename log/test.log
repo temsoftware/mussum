@@ -4,3 +4,97 @@
   [4;36;1mUser Create (0.9ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:05:04', '2009-11-28 19:05:04', 'manchaverde', 'alisonasoo')[0m
   [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:05:18', '2009-11-28 19:05:18', 'manchaverde', 'alisonasoo')[0m
   [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:06:41', '2009-11-28 19:06:41', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:10:50', '2009-11-28 19:10:50', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:10:50', '2009-11-28 19:10:50', NULL)[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:11:19', '2009-11-28 19:11:19', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:11:38', '2009-11-28 19:11:38', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:12:08', '2009-11-28 19:12:08', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:12:08', '2009-11-28 19:12:08', 'Criar banco de dados')[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:12:38', '2009-11-28 19:12:38', 'manchaverde', 'alisonasoo')[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:13:56', '2009-11-28 19:13:56', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:13:56', '2009-11-28 19:13:56', 'Criar banco de dados')[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:19:04', '2009-11-28 19:19:04', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:19:04', '2009-11-28 19:19:04', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:21:40', '2009-11-28 19:21:40', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:21:40', '2009-11-28 19:21:40', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:22:10', '2009-11-28 19:22:10', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:22:10', '2009-11-28 19:22:10', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:24:48', '2009-11-28 19:24:48', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (1.0ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:24:48', '2009-11-28 19:24:48', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:28:04', '2009-11-28 19:28:04', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:28:04', '2009-11-28 19:28:04', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:29:08', '2009-11-28 19:29:08', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (1.0ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:29:08', '2009-11-28 19:29:08', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: password
+  [4;36;1mTask Create (0.9ms)[0m   [0;1mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:29:08', '2009-11-28 19:29:08', 'Eduzera go go go smoke nargs')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:44:27', '2009-11-28 19:44:27', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:44:27', '2009-11-28 19:44:27', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: password
+  [4;36;1mTask Create (1.0ms)[0m   [0;1mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:44:27', '2009-11-28 19:44:27', 'Eduzera go go go smoke nargs')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:45:46', '2009-11-28 19:45:46', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (1.0ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:45:46', '2009-11-28 19:45:46', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:49:10', '2009-11-28 19:49:10', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:49:10', '2009-11-28 19:49:10', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: password
+  [4;36;1mTask Create (1.1ms)[0m   [0;1mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:49:10', '2009-11-28 19:49:10', 'Eduzera go go go smoke nargs')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:51:27', '2009-11-28 19:51:27', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:51:27', '2009-11-28 19:51:27', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:52:05', '2009-11-28 19:52:05', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:52:05', '2009-11-28 19:52:05', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: password
+  [4;36;1mTask Create (0.9ms)[0m   [0;1mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:52:05', '2009-11-28 19:52:05', 'Eduzera go go go smoke nargs')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:58:46', '2009-11-28 19:58:46', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:58:46', '2009-11-28 19:58:46', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: password
+  [4;36;1mTask Create (0.9ms)[0m   [0;1mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:58:46', '2009-11-28 19:58:46', 'Eduzera go go go smoke nargs')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;35;1mSprint Create (0.4ms)[0m   [0mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 19:58:46', '2009-11-28 19:58:46', NULL)[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.8ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 19:58:46', '2009-11-28 19:58:46', NULL)[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 19:59:49', '2009-11-28 19:59:49', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 19:59:49', '2009-11-28 19:59:49', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.9ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 19:59:49', '2009-11-28 19:59:49', NULL)[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:08:09', '2009-11-28 20:08:09', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:08:09', '2009-11-28 20:08:09', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.9ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:08:09', '2009-11-28 20:08:09', NULL)[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:11:09', '2009-11-28 20:11:09', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (1.0ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:11:09', '2009-11-28 20:11:09', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.9ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:11:09', '2009-11-28 20:11:09', NULL)[0m
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:11:56', '2009-11-28 20:11:56', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:11:56', '2009-11-28 20:11:56', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.9ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:11:56', '2009-11-28 20:11:56', NULL)[0m
+  [4;35;1mSprint Create (0.8ms)[0m   [0mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:11:56', '2009-11-28 20:11:56', NULL)[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:12:32', '2009-11-28 20:12:32', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (1.0ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:12:32', '2009-11-28 20:12:32', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mSprint Create (0.9ms)[0m   [0;1mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:12:32', '2009-11-28 20:12:32', NULL)[0m
+  [4;35;1mSprint Create (0.8ms)[0m   [0mINSERT INTO "sprints" ("task_id", "created_at", "updated_at", "user_id") VALUES(NULL, '2009-11-28 20:12:32', '2009-11-28 20:12:32', NULL)[0m
+  [4;36;1mUser Create (1.1ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:13:17', '2009-11-28 20:13:17', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:13:17', '2009-11-28 20:13:17', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
+  [4;36;1mUser Create (1.0ms)[0m   [0;1mINSERT INTO "users" ("name", "created_at", "updated_at", "pass", "login") VALUES('alisonasoo', '2009-11-28 20:14:48', '2009-11-28 20:14:48', 'manchaverde', 'alisonasoo')[0m
+  [4;35;1mTask Create (0.9ms)[0m   [0mINSERT INTO "tasks" ("created_at", "updated_at", "description") VALUES('2009-11-28 20:14:48', '2009-11-28 20:14:48', 'Criar banco de dados')[0m
+WARNING: Can't mass-assign these protected attributes: task_id, user_id
